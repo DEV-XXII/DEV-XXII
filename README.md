@@ -9,4 +9,4 @@
 - 📫 Reach me on Discord! XXII#6625
 - ⚡️ Fun fact: I'm only 16!
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-XXII)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-XXII&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
