@@ -6,6 +6,7 @@
 - ⚙️ I use daily: `.lua`, `.py`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
 - 🌍 I'm mostly active within the **MTA:SA Community**
 - 🌱 Learning all about **web development**
-- 💬 Ping me about **design**, **branding**, **development**, **design thinking**
 - 📫 Reach me on Discord! XXII#6625
 - ⚡️ Fun fact: I'm only 16!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-XXII)](https://github.com/anuraghazra/github-readme-stats)
