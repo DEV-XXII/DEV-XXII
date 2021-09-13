@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm a Full-Stack Developer working in Lisbon, Portugal.
+#### I'm a Junior Developer working in São-Paulo, Brazil.
 
 - 🏢 I'm currently working as a freelancer!
 - ⚙️ I use daily: `.lua`, `.py`, `.js`, `.html`, `.css`, `.svg`, `.psd`, `.ai`
