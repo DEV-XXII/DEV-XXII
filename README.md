@@ -7,4 +7,4 @@
 - 🌍 I'm mostly active within the **MTA:SA Community**
 - 📫 Reach me on Discord! danN#6625
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DEV-XXII&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danN6225&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
