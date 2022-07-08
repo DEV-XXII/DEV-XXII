@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil! ![br](https://user-images.githubusercontent.com/73851736/157129661-1a16046a-cbd1-4ef3-ba5b-162b8e39576e.png) / ![gb](https://user-images.githubusercontent.com/73851736/157130757-be576333-5eab-4482-9717-6f7a4e802c7a.png) / ![es](https://user-images.githubusercontent.com/73851736/157130782-6dd2d35a-6d97-4373-ad80-83abd8d0149a.png)
+## Bem vindo ao meu perfil! ![br](https://user-images.githubusercontent.com/73851736/157129661-1a16046a-cbd1-4ef3-ba5b-162b8e39576e.png) / ![gb](https://user-images.githubusercontent.com/73851736/157130757-be576333-5eab-4482-9717-6f7a4e802c7a.png)
 
 Meu nome é **Daniel**, nasci em 18.08.2005, moro em São Paulo, Brasil. Sou uma pessoa auto-didáta, ou seja, tudo que aprendi, foi por conta própria, desde linguagens de programação a idiomas.
 
