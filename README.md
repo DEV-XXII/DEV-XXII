@@ -1,10 +1,6 @@
-### Hi there 👋
+## Bem vindo ao meu perfil! ![br](https://user-images.githubusercontent.com/73851736/157129661-1a16046a-cbd1-4ef3-ba5b-162b8e39576e.png) / ![gb](https://user-images.githubusercontent.com/73851736/157130757-be576333-5eab-4482-9717-6f7a4e802c7a.png) / ![es](https://user-images.githubusercontent.com/73851736/157130782-6dd2d35a-6d97-4373-ad80-83abd8d0149a.png)
 
-#### I'm a Junior Developer working in São-Paulo, Brazil.
+Meu nome é **Daniel**, nasci em 18.08.2005, moro em São Paulo, Brasil. Sou uma pessoa auto-didáta, ou seja, tudo que aprendi, foi por conta própria, desde linguagens de programação a idiomas.
 
-- 🏢 I'm currently working as a freelancer!
-- ⚙️ My main programming language is `Lua`!
-- 🌍 I'm mostly active within the **MTA:SA Community**
-- 📫 Reach me on Discord! danN#6625
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danN6225&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+Atualmente, faço parte da equipe [Roman Store](https://romanscripter.com.br/), onde utilizo a linguagem Lua, além de trabalhar no UI dos resources.
+Além disso, estudo Javascript, HTML, CSS e Python.
